@@ -3,7 +3,7 @@
 ##
 - Estudante do Instituto Federal de São Paulo (IFSP)
 ##
-##
+
 ✔Estudando
 
   <div align="center">
