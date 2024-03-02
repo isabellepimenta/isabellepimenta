@@ -2,8 +2,9 @@
 
 ##
 - Estudante do Instituto Federal de São Paulo (IFSP)
-- Tenho 18 anos
-- Busco um estagio para aprimorar meus conhecimentos e para que eu possa iniciar minha carreira.
+- Tenho 19 anos
+- Me encontrei na área de tecnologia e pretendo dar o meu melhor em qualquer desafio!
+- 
 ##
 
 ✔Estudando
